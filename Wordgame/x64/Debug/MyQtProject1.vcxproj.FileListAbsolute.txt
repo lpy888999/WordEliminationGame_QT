@@ -1,0 +1,5 @@
+D:\QtCode\MyQtProject1\x64\Debug\MyQtProject1.exe
+C:\Users\19528\Desktop\桌面暂存\MyQtProject1\x64\Debug\MyQtProject1.exe
+C:\Users\19528\Desktop\tmp\MyQtProject1\x64\Debug\MyQtProject1.exe
+C:\Users\19528\Desktop\tmp\MyQtProject2\x64\Debug\MyQtProject1.exe
+C:\Users\19528\Desktop\tmp\MyQtProject3\x64\Debug\MyQtProject1.exe

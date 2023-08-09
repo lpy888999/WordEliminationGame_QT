@@ -1,0 +1,23 @@
+﻿  main.cpp
+C:\Users\19528\Desktop\tmp\Server\main.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Server.cpp
+C:\Users\19528\Desktop\tmp\Server\Server.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\19528\Desktop\tmp\Server\Server.cpp(47,12): error C2065: “ret”: 未声明的标识符
+C:\Users\19528\Desktop\tmp\Server\Server.cpp(60,21): error C2065: “buf”: 未声明的标识符
+C:\Users\19528\Desktop\tmp\Server\Server.cpp(65,5): error C2065: “buf”: 未声明的标识符
+C:\Users\19528\Desktop\tmp\Server\Server.cpp(66,24): error C2065: “buf”: 未声明的标识符
+C:\Users\19528\Desktop\tmp\Server\Server.cpp(67,13): error C2065: “buf”: 未声明的标识符
+C:\Users\19528\Desktop\tmp\Server\Server.cpp(67,16): error C2541: “delete”: 不能删除不是指针的对象
+C:\Users\19528\Desktop\tmp\Server\Server.cpp(95,5): error C2144: 语法错误:“int”的前面应有“;”
+C:\Users\19528\Desktop\tmp\Server\Server.cpp(95,9): error C2761: “int TcpSocket::writen(const char *,int)”: 不允许重新声明成员
+C:\Users\19528\Desktop\tmp\Server\Server.cpp(95,16): error C2065: “size”: 未声明的标识符
+C:\Users\19528\Desktop\tmp\Server\Server.cpp(97,21): error C2065: “msg”: 未声明的标识符
+C:\Users\19528\Desktop\tmp\Server\Server.cpp(99,5): error C2059: 语法错误:“while”
+C:\Users\19528\Desktop\tmp\Server\Server.cpp(100,5): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\19528\Desktop\tmp\Server\Server.cpp(100,5): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\19528\Desktop\tmp\Server\Server.cpp(111,5): error C2059: 语法错误:“return”
+C:\Users\19528\Desktop\tmp\Server\Server.cpp(112,1): error C2059: 语法错误:“}”
+C:\Users\19528\Desktop\tmp\Server\Server.cpp(112,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\Users\19528\Desktop\tmp\Server\Server.cpp(117,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\19528\Desktop\tmp\Server\Server.cpp(117,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+  正在生成代码...

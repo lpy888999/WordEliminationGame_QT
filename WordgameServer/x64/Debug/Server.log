@@ -1,0 +1,22 @@
+﻿  Server.cpp
+C:\Users\19528\Desktop\tmp\Server\Server.cpp(41,18): warning C4244: “=”: 从“SOCKET”转换到“int”，可能丢失数据
+C:\Users\19528\Desktop\tmp\Server\Server.cpp(99,45): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\19528\Desktop\tmp\Server\Server.cpp(108,41): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\19528\Desktop\tmp\Server\Server.cpp(137,41): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\19528\Desktop\tmp\Server\Server.cpp(170,41): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\19528\Desktop\tmp\Server\Server.cpp(178,41): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\19528\Desktop\tmp\Server\Server.cpp(186,41): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\19528\Desktop\tmp\Server\Server.cpp(193,41): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\19528\Desktop\tmp\Server\Server.cpp(200,41): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\19528\Desktop\tmp\Server\Server.cpp(207,41): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\19528\Desktop\tmp\Server\Server.cpp(225,41): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\19528\Desktop\tmp\Server\Server.cpp(232,41): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\19528\Desktop\tmp\Server\Server.cpp(239,41): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\19528\Desktop\tmp\Server\Server.cpp(247,68): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\19528\Desktop\tmp\Server\Server.cpp(248,51): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\19528\Desktop\tmp\Server\Server.cpp(255,69): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\19528\Desktop\tmp\Server\Server.cpp(256,51): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\19528\Desktop\tmp\Server\Server.cpp(263,41): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\19528\Desktop\tmp\Server\Server.cpp(530,13): warning C4244: “初始化”: 从“SOCKET”转换到“int”，可能丢失数据
+C:\Users\19528\Desktop\tmp\Server\Server.cpp(270): warning C4715: “TcpSocket::sendMsg”: 不是所有的控件路径都返回值
+  Server.vcxproj -> C:\Users\19528\Desktop\tmp\Server\x64\Debug\Server.exe

@@ -1,0 +1,4 @@
+﻿  Qtwindow2Class.cpp
+  client.cpp
+C:\Users\19528\Desktop\tmp\MyQtProject3\client.cpp(241): warning C4715: “TcpSocket::sendMsg”: 不是所有的控件路径都返回值
+  MyQtProject1.vcxproj -> C:\Users\19528\Desktop\tmp\MyQtProject3\x64\Debug\MyQtProject1.exe
